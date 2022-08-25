@@ -26,9 +26,9 @@ RUN conda install --yes -c conda-forge jupyter_contrib_nbextensions && \
   jupyter nbextension enable codefolding/main
 
 
-ADD --chown=jovyan:users Day1/Notebooks /home/jovyan/Day1
-ADD --chown=jovyan:users Day2/Notebooks /home/jovyan/Day2
-ADD --chown=jovyan:users Day3/Notebooks /home/jovyan/Day3
+ADD --chown=jovyan:users Day1 /home/jovyan/Day1
+ADD --chown=jovyan:users Day2 /home/jovyan/Day2
+ADD --chown=jovyan:users Day3 /home/jovyan/Day3
 RUN rm -rf /home/jovyan/work
 
 # Set a default backend for matplotlib!
