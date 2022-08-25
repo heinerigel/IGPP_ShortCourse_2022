@@ -1,11 +1,12 @@
 # IGPP_ShortCourse_2022
 
-Link to binder open with notebook: (https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD)
 
-Link to binder 2nd try: (https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=%2Ftree%2F)
+Link to open binder in notebook-style: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
 
-Original link: 
-([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD)
+(https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
+
 
 
 Short Course in Computational Methods 
