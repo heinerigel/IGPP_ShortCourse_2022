@@ -1,3 +1,4 @@
+# use meld by running 'git difftool <COMMIT_HASH/BRANCH_NAME> file_name'
 [diff]
     tool = meld
 [difftool]
