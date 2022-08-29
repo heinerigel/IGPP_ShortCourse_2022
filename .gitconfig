@@ -3,3 +3,7 @@
     tool = meld
 [difftool]
     prompt = false
+[filter "jupyter_clear_output"]
+    clean = "jupyter nbconvert --stdin --stdout --log-level=ERROR \
+             --to notebook --ClearOutputPreprocessor.enabled=True"
+    required = true
