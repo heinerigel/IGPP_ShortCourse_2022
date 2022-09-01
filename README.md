@@ -6,6 +6,10 @@ To run the Jupyter notebooks of this repository online click the following link 
 
 ### Short Course on Computational Methods in Geophysics, September 15-20, 2022, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
+Lecturer: Heiner Igel, LMU Munich
+
+Assistant: Andreas Brotzer, LMU Munich
+
 ##### 
   
  <font size="1"> 
