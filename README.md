@@ -6,8 +6,10 @@ To run Jupyter notebooks online click the following link (may take some time to 
 
 #### Short Course on Computational Methods in Geophysics, September 15-20, 2022, Institute of Geophysics and Planetary Physics, SCRIPPS Institution of Oceanography, La Jolla, California
 
-##### Programme
-
+##### 
+  
+ <font size="1"> 
+ 
 | Date  |   Topics |  Requirements | 
 |---|---|---|
 | Sep 15, 09:00 |  Introduction, Motivation, Discrete World, Supercomputing, Wave Equation, Analytical Solutions |  Pencil/Paper | 
@@ -19,5 +21,6 @@ To run Jupyter notebooks online click the following link (may take some time to 
 | Sep 16, 09:00 |  The Pseudospectral Method, Exact Interpolation, Fourier Transforms, Convolutional Operators, Fourier and Chebyshev Method |  Pencil/Paper | 
 | Sep 16, 10:30 |  Fourier and Chebyshev derivative, wave propagation, comparison with FD |  PC | 
 |---|---|---|  
-
 | Sep 20, 17:30 |  After Course Happy Hour   | Thirst |
+  
+</font> 
