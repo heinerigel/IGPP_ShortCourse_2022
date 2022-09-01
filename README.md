@@ -1,6 +1,6 @@
 # IGPP_ShortCourse_2022
 
-To run Jupyter notebooks online click the following link (may take some time to initialize the server):
+To run the Jupyter notebooks of this repository online click the following link (may take some time to initialize the server):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/IGPP_ShortCourse_2022/HEAD?urlpath=/tree/)
 
