@@ -11,10 +11,10 @@ To run Jupyter notebooks online click the following link (may take some time to 
  <font size="1"> 
  
 | Date  |   Topics |  Requirements | 
-||||
+| | | |
 | Sep 15, 09:00 |  Introduction, Motivation, Discrete World, Supercomputing, Wave Equation, Analytical Solutions |  Pencil/Paper | 
 | Sep 15, 10:30 |  GitHub, Jupyter Notebooks, Python ecosystem, Binder Resources, Anaconda environment |  Laptop | 
-||||
+| | | |
 | Sep 15, 14:00 |  Finite-difference method, High-order Operators, Numerical Dispersion, Stability, Staggered Grids |  Pencil/Paper | 
 | Sep 15, 15:30 |  1D and 2D wave propagation, Benchmarking, Numerical anisotropy, Heterogeneous Models |  Laptop | 
 ||||
