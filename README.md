@@ -8,8 +8,7 @@ To run Jupyter notebooks online click the following link (may take some time to 
 ### Programme
 
 | Date  |   Topics |  Requirements | 
-|---|---|---|--
+|---|---|---|
 | Sep 15, 09:00 |  GitHub |  T. Megies | 
-
 |   |     |  |  
 | Sep 20, 17:30 |  After Course Happy Hour   | Thirst |
