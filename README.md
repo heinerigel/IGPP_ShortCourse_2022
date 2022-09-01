@@ -36,7 +36,7 @@ Assistant: Andreas Brotzer, LMU Munich
 |-|-|-|
 | Sep 20, 17:30 |  After Course Happy Hour   | Thirst |
 |-|-|-|
-| Sep 22, 09:00 |  Optional Consulting, further discussion by arrangement   | Room 2208 |
+| Sep 22, 09:00 |  Optional Consulting, further discussion by arrangement   mailto:heiner.igel@lmu.de | Room 2208 |
 |-|-|-|
   
 </font> 
