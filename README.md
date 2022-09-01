@@ -19,8 +19,20 @@ To run Jupyter notebooks online click the following link (may take some time to 
 | Sep 15, 15:30 |  1D and 2D wave propagation, Benchmarking, Numerical anisotropy, Heterogeneous Models |  Laptop | 
 |---|---|---|  
 | Sep 16, 09:00 |  The Pseudospectral Method, Exact Interpolation, Fourier Transforms, Convolutional Operators, Fourier and Chebyshev Method |  Pencil/Paper | 
-| Sep 16, 10:30 |  Fourier and Chebyshev derivative, wave propagation, comparison with FD |  PC | 
+| Sep 16, 10:30 |  Fourier ad Chebyshev derivative, wave propagation, comparison with FD |  Laptop | 
 |---|---|---|  
+| Sep 16, 14:00 |  Finite-element methon, Galerkin principle, weak form, static and dynamic solution, basis functions |  Pencil/Paper | 
+| Sep 16, 15:30 |  Static elasticity problem, comparison with relaxation method, 1D elastic wave equation |  Laptop | 
+|---|---|---| 
+| Sep 20, 09:00 |  The spectral-element method, Lagrange interpolation, Numerical Integration |  Pencil/Paper | 
+| Sep 20, 10:30 |  1D elastic wave equation, heterogeneous models, convergence test |  Laptop | 
+|---|---|---| 
+| Sep 20, 14:00 |  Finite Volume and Discontinuous Galerkin Method, Numerical Fluxes |  Pencil/Paper | 
+| Sep 20, 15:30 | 1D wave equation with Discontinuous Galerkin Method, Final Discussion, Loose ends |  Laptop | 
+|---|---|---|
 | Sep 20, 17:30 |  After Course Happy Hour   | Thirst |
+|---|---|---|
+| Sep 22, 09:00 |  Optional Consulting, further discussion by arrangement   | Room 2208 |
+ |---|---|---|
   
 </font> 
