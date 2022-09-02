@@ -25,7 +25,7 @@ Assistant: Andreas Brotzer, LMU Munich
 | Sep 16, 09:00 |  The Pseudospectral Method, Exact Interpolation, Fourier Transforms, Convolutional Operators, Fourier and Chebyshev Method |  Pencil/Paper | 
 | Sep 16, 10:30 |  Fourier and Chebyshev derivative, wave propagation, comparison with FD |  Laptop | 
 |-|-|-|
-| Sep 16, 14:00 |  Finite-element methon, Galerkin principle, weak form, static and dynamic solution, basis functions |  Pencil/Paper | 
+| Sep 16, 14:00 |  Linear Finite-element method, Galerkin principle, weak form, static and dynamic solution, basis functions |  Pencil/Paper | 
 | Sep 16, 15:30 |  Static elasticity problem, comparison with relaxation method, 1D elastic wave equation |  Laptop | 
 |-|-|-|
 | Sep 16, 17:30 |  Short Course Happy Hour   | Thirst |
