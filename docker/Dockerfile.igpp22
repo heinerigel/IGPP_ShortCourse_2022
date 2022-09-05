@@ -32,10 +32,12 @@ RUN conda install nodejs --yes
 RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
 
-ADD --chown=jovyan:users Day1 /home/jovyan/Day1
-ADD --chown=jovyan:users Day2 /home/jovyan/Day2
-ADD --chown=jovyan:users Day3 /home/jovyan/Day3
-RUN rm -rf /home/jovyan/work
+ADD --chown=jovyan:users 01_Introduction /home/jovyan/01_Introduction
+ADD --chown=jovyan:users 02_FiniteDifferenceMethod /home/jovyan/02_FiniteDifferenceMethod
+ADD --chown=jovyan:users 03_PseudospectralMethod /home/jovyan/03_PseudospectralMethod
+ADD --chown=jovyan:users 04_FiniteElementMethod /home/jovyan/04_FiniteElementMethod
+ADD --chown=jovyan:users 05_SpectralElementMethod /home/jovyan/05_SpectralElementMethod
+#RUN rm -rf /home/jovyan/work
 
 # Set a default backend for matplotlib!
 RUN mkdir -p ~/.config/matplotlib && touch ~/.config/matplotlib/matplotlibrc && printf "\nbackend: nbagg\n" >> ~/.config/matplotlib/matplotlibrc
