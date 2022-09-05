@@ -34,11 +34,7 @@ RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager
 RUN jupyter labextension install jupyter-matplotlib
 
 # copy notebooks
-ADD --chown=jovyan:users 01_Introduction /home/jovyan/01_Introduction
-ADD --chown=jovyan:users 02_FiniteDifferenceMethod /home/jovyan/02_FiniteDifferenceMethod
-ADD --chown=jovyan:users 03_PseudospectralMethod /home/jovyan/03_PseudospectralMethod
-ADD --chown=jovyan:users 04_FiniteElementMethod /home/jovyan/04_FiniteElementMethod
-ADD --chown=jovyan:users 05_SpectralElementMethod /home/jovyan/05_SpectralElementMethod
+ADD --chown=jovyan:users Course_Material/* /home/jovyan/
 #RUN rm -rf /home/jovyan/work
 
 # Set a default backend for matplotlib!
