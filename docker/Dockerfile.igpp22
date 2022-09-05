@@ -34,7 +34,7 @@ RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager
 RUN jupyter labextension install jupyter-matplotlib
 
 # copy notebooks
-ADD --chown=jovyan:users Course_Material/ /home/jovyan/
+ADD --chown=jovyan:users Course_Material /home/jovyan/
 #RUN rm -rf /home/jovyan/work
 
 # Set a default backend for matplotlib!
