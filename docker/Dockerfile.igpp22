@@ -5,6 +5,7 @@ MAINTAINER Iris Christadler <christadler@geophysik.uni-muenchen.de
 # Jupyterhub 2.3.1 is already installed
 #ARG JUPYTERHUB_VERSION=2.3.1
 #RUN pip3 install --no-cache jupyterhub==$JUPYTERHUB_VERSION
+RUN python3 -m pip install jupyter notebook  
 
 # add conda-forge channel and move it to top of channel list
 RUN conda install -c conda-forge --yes 'obspy=1.3.0'
@@ -27,11 +28,12 @@ RUN conda install --yes -c conda-forge jupyter_contrib_nbextensions && \
   jupyter nbextension enable codefolding/main
   
 # install ipympl
-RUN conda install -c conda-forge ipympl --yes
-RUN conda install nodejs --yes 
+RUN python3 -m pip install ipympl 
+RUN python3 -m pip install nodejs  
 RUN jupyter labextension install @jupyter-widgets/jupyterlab-manager
+RUN jupyter labextension install jupyter-matplotlib
 
-
+# copy notebooks
 ADD --chown=jovyan:users 01_Introduction /home/jovyan/01_Introduction
 ADD --chown=jovyan:users 02_FiniteDifferenceMethod /home/jovyan/02_FiniteDifferenceMethod
 ADD --chown=jovyan:users 03_PseudospectralMethod /home/jovyan/03_PseudospectralMethod
