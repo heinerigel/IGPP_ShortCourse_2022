@@ -1,2 +1,0 @@
-# Un-comment this if you would like to clean all notebooks before commit'ing
-# *.ipynb    filter=jupyter_clear_output
